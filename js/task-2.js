@@ -1,4 +1,4 @@
-"use strict"
+'use strict';
 //VAR1
 // function getShippingMessage(country, price, deliveryFee) {
 //     const totalPrice = price + deliveryFee;
